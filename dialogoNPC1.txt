@@ -1,3 +1,5 @@
 NPC "Que onda hermano"
 NPC "Escuchame una cosita..."
 NPC "¿Queres mate?"
+
+["dialogoNPC-NO"]
