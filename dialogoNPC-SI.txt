@@ -1,0 +1,2 @@
+NPC "Listo campeón"
+NPC "Aca tenes tu mate"
